@@ -6,6 +6,7 @@
 # 1. Your IITM Email
 EMAIL = "24f3004358@ds.study.iitm.ac.in"
 
+Q1_ALLOWED_ORIGIN = "https://dash-ovd1sj.example.com"
 
 # 4. Q3: 12-Factor Config (Manually merge the variables)
 Q3_PORT = 8429
